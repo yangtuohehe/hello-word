@@ -1,5 +1,4 @@
-# hello-word
-我的第一个储存库
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
